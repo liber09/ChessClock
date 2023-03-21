@@ -1,1 +1,1 @@
-ChessClock app createed in Swift
+ChessClock app created in Swift
